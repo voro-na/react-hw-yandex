@@ -1,0 +1,10 @@
+.container{
+    padding: 24px;
+    background-color: white;
+    margin-top: 24px;
+}
+.questionTitle{
+    display: flex;
+    justify-content: space-between;
+}
+

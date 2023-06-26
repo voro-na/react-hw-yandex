@@ -1,0 +1,15 @@
+.reviewContainer{
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    display: grid;
+    grid-template-rows: auto 1fr;
+    grid-template-columns: auto 1fr auto;
+    gap: 24px;
+    justify-content: start;
+    align-items: start;
+    margin: 20px 0;
+}
+.img{
+    grid-row: 1/3;
+}

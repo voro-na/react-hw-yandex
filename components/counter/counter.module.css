@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    gap: 2px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.btn {
+    background: #FF5500;
+    color: white;
+    width: 20px;
+    height: 20px;
+    top: 20px;
+    left: 20px;
+    padding: 4px;
+    border-radius: 4px;
+    gap: 10px;
+    text-align: center;
+}

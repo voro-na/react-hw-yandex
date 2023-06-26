@@ -1,0 +1,11 @@
+.container{
+    width: calc(100vw - 200px);
+    max-width: 1500px;
+}
+.sum{
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
